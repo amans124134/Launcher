@@ -19,4 +19,3 @@ How we handle accounts:
 Scope:
 - Free, non-commercial, for our community members only (around [10-30] players).
 - Built in C# (.NET) with the open-source CmlLib.Core library.
-- Project page: [[GitHub 또는 웹사이트 주소]](https://github.com/amans124134/Launcher/edit/main/README.md)
